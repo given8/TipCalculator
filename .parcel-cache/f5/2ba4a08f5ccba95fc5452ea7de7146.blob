@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/index.HASH_REF_c056b0c92c45a253956c5f172652e234.css">
+    <script src="/index.HASH_REF_0fa2489aa94c8731ee2aee9f3fafb3e2.js" defer=""></script>
+    <title>Tip Calculator</title>
+  </head>
+  <body>
+    <h1>SPLI<br>TTER</h1>
+    <div class="container">
+      <div class="userEntry">
+        <div class="bill entryContainer">
+          <label for="bill" class="billLabel">Bill</label>
+          <input type="number" name="bill" id="billInput" placeholder="R">
+        </div>
+        <div class="tip entryContainer">
+          <label for="bill" class="billLabel">Select Tip %</label>
+          <div class="tipButtonContainer">
+            <button class="tipButton"></button>
+            <button class="tipButton"></button>
+            <button class="tipButton"></button>
+            <button class="tipButton"></button>
+            <button class="tipButton"></button>
+            <button class="tipButton">Custom</button>
+          </div>
+        </div>
+        <div class="bill entryContainer">
+          <label for="bill" class="billLabel">Number of People</label>
+          <input type="number" min="1" name="bill" id="numPeopleInput" placeholder="">
+        </div>
+      </div>
+      <div class="calculationResult">
+        <p>Tip Amount<br><span>/ Person</span></p>
+        <h2 id="tip">$0.00</h2>
+        <p>Total<br><span>/ Person</span></p>
+        <h2 id="total">$32.00</h2>
+        <button class="reset">Reset</button>
+      </div>
+    </div>
+  </body>
+</html>

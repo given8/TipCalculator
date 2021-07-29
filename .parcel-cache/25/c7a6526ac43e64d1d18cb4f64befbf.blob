@@ -1,0 +1,44 @@
+var _rxjs = require("rxjs");
+let tipAmounts = [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5
+];
+let tipButtons = document.querySelectorAll(".tipButton");
+console.log("Loaded");
+let tipPercentage = 0, bill = 0;
+let numberOfPeople = 1;
+let tipPercentageSubject = new _rxjs.BehaviorSubject(tipPercentage);
+let billSubject = new _rxjs.BehaviorSubject(bill);
+let numberOfPeopleSubject = new _rxjs.BehaviorSubject(numberOfPeople);
+_rxjs.fromEvent(document.getElementById("billInput"), "input").pipe(_rxjs.debounceTime(1000)).subscribe((event)=>billSubject.next(Number(event.target.value))
+);
+_rxjs.fromEvent(document.getElementById("numPeopleInput"), "input").pipe(_rxjs.debounceTime(500)).subscribe((event)=>numberOfPeopleSubject.next(Number(event.target.value))
+);
+tipAmounts.forEach((tip, index)=>{
+    tipButtons[index].innerHTML = `${tip * 100}%`;
+    _rxjs.fromEvent(tipButtons[index], "click").subscribe(()=>{
+        console.log(tipButtons[index].classList);
+        tipPercentageSubject.next(tip);
+        tipButtons[index].classList.toggle("click");
+        tipPercentage = tip;
+    });
+});
+let tipAmount = _rxjs.combineLatest([
+    tipPercentageSubject,
+    billSubject,
+    numberOfPeopleSubject, 
+]);
+tipAmount.subscribe(([tipS, billS, numberOfPeopleS])=>{
+    console.log({
+        tip: tipS,
+        bill: billS,
+        numP: numberOfPeopleS
+    });
+    let totalTip = billS * tipS / numberOfPeopleS;
+    let total = totalTip + billS / numberOfPeopleS;
+    document.getElementById("tip").innerText = `R${totalTip}`;
+    document.getElementById("total").innerText = `R${total}`;
+});
