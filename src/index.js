@@ -20,13 +20,13 @@ let numberOfPeopleSubject = new BehaviorSubject(numberOfPeople);
 let buttonIndexSubject = new BehaviorSubject(buttonIndex);
 
 fromEvent(document.getElementById("billInput"), "input")
-  .pipe(debounceTime(1000))
+  .pipe(debounceTime(400))
   .subscribe((event) => billSubject.next(Number(event.target.value)));
 
 fromEvent(document.getElementById("numPeopleInput"), "input")
   .pipe(
-    debounceTime(500),
-    filter((num) => num > 0 === true)
+    debounceTime(400),
+    filter((inputEvent) => inputEvent.target.value > 0 === true)
   )
   .subscribe((event) => numberOfPeopleSubject.next(Number(event.target.value)));
 
