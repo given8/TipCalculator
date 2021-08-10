@@ -399,9 +399,9 @@ let tipPercentageSubject = new _rxjs.BehaviorSubject(tipPercentage);
 let billSubject = new _rxjs.BehaviorSubject(bill);
 let numberOfPeopleSubject = new _rxjs.BehaviorSubject(numberOfPeople);
 let buttonIndexSubject = new _rxjs.BehaviorSubject(buttonIndex);
-_rxjs.fromEvent(document.getElementById("billInput"), "input").pipe(_rxjs.debounceTime(1000)).subscribe((event)=>billSubject.next(Number(event.target.value))
+_rxjs.fromEvent(document.getElementById("billInput"), "input").pipe(_rxjs.debounceTime(400)).subscribe((event)=>billSubject.next(Number(event.target.value))
 );
-_rxjs.fromEvent(document.getElementById("numPeopleInput"), "input").pipe(_rxjs.debounceTime(500), _rxjs.filter((num)=>num > 0 === true
+_rxjs.fromEvent(document.getElementById("numPeopleInput"), "input").pipe(_rxjs.debounceTime(400), _rxjs.filter((inputEvent)=>inputEvent.target.value > 0 === true
 )).subscribe((event)=>numberOfPeopleSubject.next(Number(event.target.value))
 );
 tipAmounts.forEach((tip, index)=>{

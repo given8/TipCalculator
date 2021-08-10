@@ -1,4 +1,4 @@
-21475
+21477
 147D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-convert-values\node_modules\chalk\node_modules\supports-color\package.json132716917781335545 0
 78D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\is-color-stop132716917753308841 1
 66D:\Users\Given\Documents\Code\Web Dev\TipCalculator\.gitattributes132720557142445860 0
@@ -7,7 +7,7 @@
 112D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\stylehacks\node_modules\postcss\lib\tokenize.js121436361000000000 0
 92D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\xmlchars\xml\1.0\ed4.js.map121436361000000000 0
 114D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\jsdom\lib\jsdom\living\events\CustomEvent-impl.js121436361000000000 0
-64D:\Users\Given\Documents\Code\Web Dev\TipCalculator\package.json132717139381908904 0
+64D:\Users\Given\Documents\Code\Web Dev\TipCalculator\package.json132724970069294857 0
 87D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\lodash\fp\wrapperAt.js121436361000000000 0
 72D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\brorand132716917829101354 1
 84D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\srcset\package.json132716917737145794 0
@@ -27,7 +27,7 @@
 80D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\lodash\fp\__.js121436361000000000 0
 125D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-modules\node_modules\postcss-modules-scope\README.md121436361000000000 0
 106D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\esm5\internal\Observable.js.map121436361000000000 0
-56D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist132720386884787221 1
+56D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist132731015875960866 1
 120D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\types\internal\util\argsArgArrayOrObject.d.ts121436361000000000 0
 103D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\src\internal\util\isObservable.ts121436361000000000 0
 103D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\minimalistic-crypto-utils\lib\utils.js131322720100000000 0
@@ -44,7 +44,7 @@
 98D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\purgecss\node_modules\postcss\lib132716917364081398 1
 73D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\uuid\lib132716917322689241 1
 88D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\querystring\decode.d.ts121436361000000000 0
-62D:\Users\Given\Documents\Code\Web Dev\TipCalculator\.gitignore132720557141095842 0
+62D:\Users\Given\Documents\Code\Web Dev\TipCalculator\.gitignore132724963940765325 0
 133D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-normalize-timing-functions\node_modules\postcss\lib\parse.js121436361000000000 0
 83D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\convert-source-map132716917820526069 1
 114D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\cjs\internal\operators\retryWhen.js.map121436361000000000 0
@@ -78,7 +78,7 @@
 116D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-reduce-transforms\node_modules\postcss\docs132716917356955841 1
 114D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\caniuse-lite\data\features\css-read-only-write.js121436361000000000 0
 121D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\unset-value\node_modules\has-value\node_modules\isobject132716917725624570 1
-55D:\Users\Given\Documents\Code\Web Dev\TipCalculator\src132717074770516018 1
+55D:\Users\Given\Documents\Code\Web Dev\TipCalculator\src132724978961561910 1
 114D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\esm\internal\observable\generate.js.map121436361000000000 0
 96D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-normalize-url\README.md121436361000000000 0
 114D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\jsdom\lib\jsdom\living\generated\PopStateEvent.js121436361000000000 0
@@ -87,7 +87,7 @@
 96D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\stable\instance\keys.js121436361000000000 0
 87D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\js-yaml\lib\js-yaml.js121436361000000000 0
 81D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\features132716917516456885 1
-66D:\Users\Given\Documents\Code\Web Dev\TipCalculator\src\index.html132720214748558900 0
+66D:\Users\Given\Documents\Code\Web Dev\TipCalculator\src\index.html132731015869710986 0
 120D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\types\internal\scheduled\schedulePromise.d.ts121436361000000000 0
 130D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\unset-value\node_modules\has-value\node_modules\isobject\index.js131060916700000000 0
 107D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\esm5\internal\BehaviorSubject.js121436361000000000 0
@@ -110,10 +110,10 @@
 102D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\features\string\trim-right.js121436361000000000 0
 107D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\es-abstract\helpers\isTrailingSurrogate.js121436361000000000 0
 111D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\@parcel\babel-ast-utils\test\fixtures\async.js121436361000000000 0
-66D:\Users\Given\Documents\Code\Web Dev\TipCalculator\src\style.scss132720386883200713 0
+66D:\Users\Given\Documents\Code\Web Dev\TipCalculator\src\style.scss132731009644476540 0
 106D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\http-proxy-middleware\dist\_handlers.d.ts121436361000000000 0
 93D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\commander\typings\index.d.ts121436361000000000 0
-64D:\Users\Given\Documents\Code\Web Dev\TipCalculator\src\index.js132720227721384860 0
+64D:\Users\Given\Documents\Code\Web Dev\TipCalculator\src\index.js132724975497088674 0
 72D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\deep-is132716917812292811 1
 91D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\async-limiter\package.json132716917828838647 0
 100D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\svgo\plugins\convertStyleToAttrs.js121436361000000000 0
@@ -124,9 +124,17 @@
 113D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\cjs\internal\operators\skipLast.js.map121436361000000000 0
 78D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\node-releases132716917788275798 1
 118D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\types\internal\operators\partition.d.ts.map121436361000000000 0
-90D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\cli-spinners\package.json132716917826434852 0
-111D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\csso\node_modules\css-tree\lib\syntax\index.js121436361000000000 0
-79D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\browserify-des132716917752279511 1
+108D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\uncss\node_modules\supports-color\readme.md121436361000000000 0
+76D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\cipher-base132716917752616164 1
+85D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\lodash\fp\matches.js121436361000000000 0
+131D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-discard-overridden\node_modules\color-convert\CHANGELOG.md121436361000000000 0
+88D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\whatwg-url\lib\utils.js121436361000000000 0
+102D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\mixin-deep\node_modules\is-extendable132716917789531541 1
+111D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\stable\typed-array\to-locale-string.js121436361000000000 0
+76D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\signal-exit132716917749113768 1
+95D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\lodash\_castArrayLikeObject.js121436361000000000 0
+74D:\Users\Given\Documents\Code\Web Dev\TipCalculator\src\tipIconFavicon.ico132724977251432864 0
+87D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\esm\index.js121436361000000000 0
 92D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\command-exists\test\test.js121436361000000000 0
 102D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\es\typed-array\copy-within.js121436361000000000 0
 141D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-normalize-timing-functions\node_modules\color-convert\conversions.js121436361000000000 0
@@ -613,6 +621,9 @@
 79D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\uniq\README.md130091719210000000 0
 123D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-convert-values\node_modules\postcss\docs\syntax.md121436361000000000 0
 82D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\browserify-cipher132716917720954815 1
+90D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\cli-spinners\package.json132716917826434852 0
+111D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\csso\node_modules\css-tree\lib\syntax\index.js121436361000000000 0
+79D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\browserify-des132716917752279511 1
 114D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\types\internal\util\EmptyError.d.ts.map121436361000000000 0
 129D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-modules-local-by-default\node_modules\has-flag\readme.md131593942790000000 0
 112D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\icss-utils\node_modules\postcss\docs\guidelines132716917371966765 1
@@ -797,15 +808,6 @@
 100D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\stable\string\trim-right.js121436361000000000 0
 72D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js132716917822520968 1
 70D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\jsdom132716917713024060 1
-108D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\uncss\node_modules\supports-color\readme.md121436361000000000 0
-76D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\cipher-base132716917752616164 1
-85D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\lodash\fp\matches.js121436361000000000 0
-131D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-discard-overridden\node_modules\color-convert\CHANGELOG.md121436361000000000 0
-88D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\whatwg-url\lib\utils.js121436361000000000 0
-102D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\mixin-deep\node_modules\is-extendable132716917789531541 1
-111D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\stable\typed-array\to-locale-string.js121436361000000000 0
-76D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\signal-exit132716917749113768 1
-95D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\lodash\_castArrayLikeObject.js121436361000000000 0
 125D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-merge-longhand\node_modules\postcss\lib\postcss.d.ts121436361000000000 0
 93D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\uncss\node_modules\commander132716917730403026 1
 100D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\asn1.js\lib\asn1\constants\index.js121436361000000000 0
@@ -905,11 +907,6 @@
 78D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\color-convert132716917827894131 1
 108D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\es-abstract\2019\SymbolDescriptiveString.js121436361000000000 0
 131D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\types.js121436361000000000 0
-122D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\types\internal\testing\SubscriptionLog.d.ts.map121436361000000000 0
-90D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\es-abstract\5\ToNumber.js121436361000000000 0
-108D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\features\object\get-prototype-of.js121436361000000000 0
-110D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\cjs\internal\operators\skipUntil.js121436361000000000 0
-72D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\sax\lib132716917364711402 1
 75D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\color-name132716917827924163 1
 100D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\@babel\types\lib\modifications\flow132716917371306790 1
 107D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-colormin\node_modules\postcss\docs132716917368213368 1
@@ -1305,13 +1302,13 @@
 88D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\is-date-object\index.js121436361000000000 0
 122D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-svgo\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
 97D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\string.prototype.trimend\shim.js121436361000000000 0
+94D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\es-abstract\2020\StringPad.js121436361000000000 0
+69D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\tr46132716917730323059 1
+90D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\har-schema\lib\query.json131370181680000000 0
 122D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-reduce-initial\node_modules\postcss\lib\vendor.js121436361000000000 0
 74D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\pn\tty.js131594838820000000 0
 129D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-reduce-initial\node_modules\postcss\lib\map-generator.js121436361000000000 0
 73D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\escalade132716917809573740 1
-94D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\es-abstract\2020\StringPad.js121436361000000000 0
-69D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\tr46132716917730323059 1
-90D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\har-schema\lib\query.json131370181680000000 0
 122D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\stylehacks\node_modules\chalk\node_modules\supports-color132716917737368697 1
 77D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\finalhandler132716917724851323 1
 107D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\stable\typed-array\uint16-array.js121436361000000000 0
@@ -3982,7 +3979,7 @@
 92D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\es\instance\trim.js121436361000000000 0
 101D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\src\internal\operators\audit.ts121436361000000000 0
 106D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-modules-extract-imports\README.md130866229650000000 0
-67D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist\index.html132720386884626294 0
+67D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist\index.html132731015875800869 0
 120D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\types\internal\testing\TestScheduler.d.ts.map121436361000000000 0
 101D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\highlight.js\lib\languages\step21.js121436361000000000 0
 133D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\uncss\node_modules\postcss-selector-parser\dist\util\ensureObject.js121436361000000000 0
@@ -5922,6 +5919,11 @@
 118D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\cjs\internal\observable\bindCallback.js.map121436361000000000 0
 83D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\saxes\package.json132716917711736975 0
 105D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\esm\internal\operators\find.js121436361000000000 0
+122D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\types\internal\testing\SubscriptionLog.d.ts.map121436361000000000 0
+90D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\es-abstract\5\ToNumber.js121436361000000000 0
+108D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\features\object\get-prototype-of.js121436361000000000 0
+110D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\cjs\internal\operators\skipUntil.js121436361000000000 0
+72D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\sax\lib132716917364711402 1
 121D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\@parcel\transformer-html\node_modules\domhandler\LICENSE121436361000000000 0
 153D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\@parcel\transformer-posthtml\node_modules\domutils\node_modules\domhandler\lib\node.d.ts121436361000000000 0
 97D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\purgecss\node_modules\color-name132716917756502098 1
@@ -7987,7 +7989,6 @@
 106D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\esm5\internal\ajax\types.js.map121436361000000000 0
 107D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\cjs\internal\operators\window.js121436361000000000 0
 83D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\esm\ajax132717139372368904 1
-87D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\esm\index.js121436361000000000 0
 106D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-colormin\node_modules\ansi-styles132716917782643039 1
 88D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\rxjs\dist\esm\operators132717139372378906 1
 97D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\icss-utils\node_modules\has-flag132716917802652095 1
@@ -9750,6 +9751,7 @@
 83D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\posthtml\readme.md121436361000000000 0
 117D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-modules-scope\node_modules\postcss\README.md121436361000000000 0
 93D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\posthtml\types\posthtml.d.ts121436361000000000 0
+84D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist\tipIconFavicon.ddb3d89d.ico132731015875650867 0
 86D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\posthtml\lib\index.js121436361000000000 0
 89D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-value-parser\lib132716917388798745 1
 125D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-reduce-transforms\node_modules\ansi-styles\readme.md131628273600000000 0
@@ -9799,7 +9801,7 @@
 134D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-normalize-display-values\node_modules\supports-color\index.js121436361000000000 0
 123D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-unique-selectors\node_modules\postcss\lib\parse.js121436361000000000 0
 129D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-discard-comments\node_modules\postcss\lib\declaration.js121436361000000000 0
-79D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist\index.2652e234.css.map132720386884694392 0
+79D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist\index.2652e234.css.map132731015875850869 0
 124D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-unique-selectors\node_modules\postcss\lib\parser.js121436361000000000 0
 112D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\@parcel\babel-ast-utils\test\fixtures\import.js121436361000000000 0
 110D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\caniuse-lite\data\features\mutation-events.js121436361000000000 0
@@ -10522,15 +10524,15 @@
 106D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\jsdom\lib\jsdom\living\generated\Event.js121436361000000000 0
 100D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\http-proxy-middleware\dist\types.js121436361000000000 0
 117D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\cssnano-util-raw-cache\node_modules\has-flag\license131408182550000000 0
+116D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-discard-comments\node_modules\chalk\license121436361000000000 0
+130D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-normalize-whitespace\node_modules\color-convert\README.md121436361000000000 0
+127D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-colormin\node_modules\postcss-value-parser\lib\walk.js121436361000000000 0
 93D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\@parcel\transformer-json\src132716917425401796 1
 148D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-minify-font-values\node_modules\chalk\node_modules\supports-color\readme.md131663821590000000 0
 84D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\hash-base\README.md121436361000000000 0
 94D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\es-abstract\5\YearFromTime.js121436361000000000 0
 76D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\ejs\LICENSE132186645850000000 0
 112D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-colormin\node_modules\has-flag\index.js131593941750000000 0
-116D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-discard-comments\node_modules\chalk\license121436361000000000 0
-130D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-normalize-whitespace\node_modules\color-convert\README.md121436361000000000 0
-127D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-colormin\node_modules\postcss-value-parser\lib\walk.js121436361000000000 0
 122D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-normalize-positions\node_modules\has-flag\license131408182550000000 0
 129D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-normalize-whitespace\node_modules\color-convert\route.js121436361000000000 0
 104D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\es-abstract\2020\BigInt\exponentiate.js121436361000000000 0
@@ -11395,7 +11397,6 @@
 120D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-modules-values\node_modules\postcss\lib\root.js121436361000000000 0
 127D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-modules-values\node_modules\postcss\lib\stringifier.js121436361000000000 0
 125D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-modules-values\node_modules\postcss\lib\stringify.js121436361000000000 0
-105D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\features\string\virtual\small.js121436361000000000 0
 88D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\@parcel\core\lib\public132716917367623886 1
 79D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\@types\node\fs132716917316066388 1
 143D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-merge-longhand\node_modules\chalk\node_modules\supports-color\index.js131792129460000000 0
@@ -12684,7 +12685,7 @@
 129D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-convert-values\node_modules\postcss\lib\map-generator.js121436361000000000 0
 125D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-convert-values\node_modules\postcss\lib\postcss.d.ts121436361000000000 0
 90D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\css-tree\lib\syntax\scope132716917441723569 1
-78D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist\index.3fafb3e2.js.map132720386884787221 0
+78D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist\index.3fafb3e2.js.map132731015875950861 0
 104D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\@babel\helper-hoist-variables\README.md121012626000000000 0
 128D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-convert-values\node_modules\postcss\lib\previous-map.js121436361000000000 0
 125D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\postcss-convert-values\node_modules\postcss\lib\processor.js121436361000000000 0
@@ -18381,6 +18382,7 @@
 104D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\features\string\virtual\link.js121436361000000000 0
 109D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\features\string\virtual\pad-start.js121436361000000000 0
 111D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\features\string\virtual\replace-all.js121436361000000000 0
+105D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\features\string\virtual\small.js121436361000000000 0
 111D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\features\string\virtual\starts-with.js121436361000000000 0
 103D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\features\string\virtual\sub.js121436361000000000 0
 106D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\core-js\features\string\virtual\substr.js121436361000000000 0
@@ -21472,5 +21474,5 @@
 79D:\Users\Given\Documents\Code\Web Dev\TipCalculator\node_modules\.bin\which.cmd132716917851499519 0
 74D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist\index.01a1c8c0.js132717076003657054 0
 78D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist\index.01a1c8c0.js.map132717076003707062 0
-75D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist\index.2652e234.css132720386884636879 0
-74D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist\index.3fafb3e2.js132720386884669986 0
+75D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist\index.2652e234.css132731015875811270 0
+74D:\Users\Given\Documents\Code\Web Dev\TipCalculator\dist\index.3fafb3e2.js132731015875840870 0

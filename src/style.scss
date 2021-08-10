@@ -6,19 +6,22 @@ $primary-dark-color: rgb(8, 60, 73);
 }
 
 body {
+  margin: auto;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background-color: rgb(178, 252, 252);
+  background-color: #b2fcfc;
   text-align: center;
   display: grid;
-  width: 100%;
   padding: 5px;
-  place-items: center;
   min-height: 100vh;
+  max-width: 800px;
+}
+h1 {
+  align-self: end;
 }
 
 .mainContainer {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
 }
@@ -27,13 +30,13 @@ body {
   border-radius: 20px;
   background-color: white;
   min-height: 400px;
-  box-shadow: 0 0 8px rgb(0 0 0 / 10%);
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  margin: 020px;
   box-shadow: inset;
   display: grid;
-  align-items: center;
   padding: 10px;
   gap: 10px;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 
 .userEntry {
