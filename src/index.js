@@ -74,8 +74,8 @@ tipAmount.subscribe(([tipS, billS, numberOfPeopleS]) => {
   let totalTip = (billS * tipS) / numberOfPeopleS;
   let total = totalTip + billS / numberOfPeopleS;
 
-  document.getElementById("tip").innerText = `R${totalTip}`;
-  document.getElementById("total").innerText = `R${total}`;
+  document.getElementById("tip").innerText = `R${totalTip.toFixed(2)}`;
+  document.getElementById("total").innerText = `R${total.toFixed(2)}`;
 });
 
 fromEvent(document.getElementById("reset"), "click").subscribe(() => {

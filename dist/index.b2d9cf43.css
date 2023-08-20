@@ -1,0 +1,136 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  background-color: #b2fcfc;
+  max-width: 800px;
+  min-height: 100vh;
+  margin: auto;
+  padding: 5px;
+  font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+  display: grid;
+}
+
+h1 {
+  align-self: end;
+}
+
+.overallContainer {
+  align-self: center;
+}
+
+.mainContainer {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.container {
+  box-shadow: 0 0 8px #0000001a;
+  box-shadow: inset;
+  background-color: #fff;
+  border-radius: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 10px;
+  min-height: 400px;
+  margin: 20px;
+  padding: 10px;
+  display: grid;
+}
+
+.userEntry {
+  grid-template-rows: 1fr 1.5fr 1fr;
+  row-gap: 20px;
+  display: grid;
+}
+
+.calculationResult {
+  background-color: #083c49;
+  border-radius: 10px;
+  grid-template-rows: 1fr 1fr 3fr;
+  grid-template-columns: 1fr 1fr;
+  height: 100%;
+  padding: 30px;
+  display: grid;
+}
+
+.calculationResult p {
+  text-align: left;
+  color: #fff;
+}
+
+.calculationResult span {
+  color: #1294a5;
+}
+
+.calculationResult h2 {
+  text-align: right;
+  color: #34e3e9;
+}
+
+.calculationResult button {
+  text-transform: uppercase;
+  color: #bef6f8;
+  background-color: #1288a5;
+  border: none;
+  border-radius: 2px;
+  grid-area: 3 / 1 / 4 / 3;
+  align-self: end;
+  padding: 10px 0;
+  font-weight: bold;
+}
+
+.entryContainer {
+  flex-direction: column;
+  display: flex;
+}
+
+label {
+  align-self: flex-start;
+}
+
+input {
+  background-color: #e9ffff;
+  border: none;
+  padding: 10px;
+}
+
+.tipButtonContainer {
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
+  place-items: center;
+  gap: 5px;
+  margin-top: 10px;
+  display: grid;
+}
+
+.tipButton {
+  color: #fff;
+  cursor: pointer;
+  background-color: #083c49;
+  border: none;
+  border-radius: 5px;
+  min-width: 80px;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.tipButton.custom {
+  background-color: #1279a5;
+}
+
+.click {
+  color: #000;
+  background-color: #81d3e7;
+}
+
+input {
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=index.b2d9cf43.css.map */
