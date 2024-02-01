@@ -7,7 +7,6 @@ import {
 } from "rxjs";
 let tipAmounts = [0.1, 0.2, 0.3, 0.4, 0.5];
 let tipButtons = document.querySelectorAll(".tipButton");
-console.log("Loaded");
 let tipPercentage = 0,
   bill = 0;
 let numberOfPeople = 1;
@@ -26,14 +25,13 @@ fromEvent(document.getElementById("billInput"), "input")
 fromEvent(document.getElementById("numPeopleInput"), "input")
   .pipe(
     debounceTime(400),
-    filter((inputEvent) => inputEvent.target.value > 0 === true)
+    filter((inputEvent) => inputEvent.target.value > 0)
   )
   .subscribe((event) => numberOfPeopleSubject.next(Number(event.target.value)));
 
 tipAmounts.forEach((tip, index) => {
   tipButtons[index].innerHTML = `${tip * 100}%`;
   fromEvent(tipButtons[index], "click").subscribe(() => {
-    //console.log(tipButtons[index].classList);
     buttonIndexSubject.next(index);
     tipPercentageSubject.next(tip);
     tipButtons[index].classList.toggle("click");
