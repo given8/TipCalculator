@@ -18,11 +18,13 @@ let billSubject = new BehaviorSubject(bill);
 let numberOfPeopleSubject = new BehaviorSubject(numberOfPeople);
 let buttonIndexSubject = new BehaviorSubject(buttonIndex);
 
-fromEvent(document.getElementById("billInput"), "input")
+const billInputElement = document.getElementById("billInput")
+fromEvent(billInputElement, "input")
   .pipe(debounceTime(400))
   .subscribe((event) => billSubject.next(Number(event.target.value)));
 
-fromEvent(document.getElementById("numPeopleInput"), "input")
+const numPeopleInput = document.getElementById("numPeopleInput")
+fromEvent(numPeopleInput, "input")
   .pipe(
     debounceTime(400),
     filter((inputEvent) => inputEvent.target.value > 0)
@@ -44,7 +46,6 @@ tipAmounts.forEach((tip, index) => {
 fromEvent(tipButtons[5], "click").subscribe(() => {
   let customTipPercent = prompt("Please Enter a Percentage");
   customTipPercent = customTipPercent.replace("%", "");
-  console.log(customTipPercent);
   if (isNaN(customTipPercent)) {
     alert("Please enter a number");
   } else {
@@ -68,7 +69,6 @@ let tipAmount = combineLatest([
 ]);
 
 tipAmount.subscribe(([tipS, billS, numberOfPeopleS]) => {
-  console.log({ tip: tipS, bill: billS, numP: numberOfPeopleS });
   let totalTip = (billS * tipS) / numberOfPeopleS;
   let total = totalTip + billS / numberOfPeopleS;
 
@@ -78,7 +78,11 @@ tipAmount.subscribe(([tipS, billS, numberOfPeopleS]) => {
 
 fromEvent(document.getElementById("reset"), "click").subscribe(() => {
   billSubject.next(0);
-  tipButtons[buttonIndexSubject.value].classList.toggle("click");
   numberOfPeopleSubject.next(1);
   tipPercentageSubject.next(0);
+  billInputElement.value = 0
+  numPeopleInput.value = 0
+  if(billInputElement.value !== '0' && numPeopleInput.value !== '0'){
+    tipButtons[buttonIndexSubject.value].classList.toggle("click");
+  }
 });
